@@ -9,9 +9,7 @@ The first step is to download the simulator build that's appropriate for your op
 You can test out the simulator by opening it up and choosing "Training Mode".  Use the mouse or keyboard to navigate around the environment and see how it looks.
 
 ## Dependencies
-You'll need Python 3 and Jupyter Notebooks installed to do this project.  The best way to get setup with these if you are not already is to use Anaconda following along with the [RoboND-Python-Starterkit](https://github.com/ryan-keenan/RoboND-Python-Starterkit). 
-
-
+You'll need Python 3 and Jupyter Notebooks installed to do this project.  
 Here is a great link for learning more about [Anaconda and Jupyter Notebooks](https://classroom.udacity.com/courses/ud1111)
 
 ## Recording Data
@@ -41,4 +39,4 @@ python drive_rover.py
 
 Then launch the simulator and choose "Autonomous Mode".  The rover should drive itself now!  It doesn't drive that well yet, but it's your job to make it better!  
 
-**Note: running the simulator with different choices of resolution and graphics quality may produce different results! 
+**Note: running the simulator with different choices of resolution and graphics quality may produce different results! **
